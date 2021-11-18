@@ -12,7 +12,9 @@ Reliable tools for artefact rejection and signal classification are a must for c
 #
 
 ## please cite us
-O.Bar, Ł.Bibrzycki, M.Niedżwiecki, M.Piekarczyk, K.Rzecki, T.Sośnicki, S.Stuglik, M.Frontczak, et al. (CREDO Collab.),
+Bar, O.; Bibrzycki, Ł.; Niedźwiecki, M.; Piekarczyk, M.; Rzecki, K.; Sośnicki, T.; Stuglik, S.; Frontczak, M.; Homola, P.; Alvarez-Castillo, D.E.; Andersen, T.; Tursunov, 
+A. Zernike Moment Based Classification of Cosmic Ray Candidate Hits from CMOS Sensors.
+Sensors 2021, 1, 0. https://doi.org/
 
 Full text avilable at: 
 xxx
