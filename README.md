@@ -39,10 +39,11 @@ pip install -r requirements.txt
 ## please cite us
 Bar, O.; Bibrzycki, Ł.; Niedźwiecki, M.; Piekarczyk, M.; Rzecki, K.; Sośnicki, T.; Stuglik, S.; Frontczak, M.; Homola, P.; Alvarez-Castillo, D.E.; Andersen, T.; Tursunov, 
 A. Zernike Moment Based Classification of Cosmic Ray Candidate Hits from CMOS Sensors.
-Sensors 2021, 1, 0. https://doi.org/
+Sensors 2021,21 (22), 7718, November 2021.
+DOI:10.3390/s21227718.
 
 Full text avilable at: 
-xxx
+https://www.mdpi.com/1424-8220/21/22/7718
 
 ## Repository authors:
 Bar, O.; Bibrzycki, Ł.; Frontczak, M.; Niedźwiecki, M.; Piekarczyk, M.; Rzecki, K.; Sośnicki, T.; Stuglik, S.
